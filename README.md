@@ -40,21 +40,21 @@ public inetrface
 ## <span style="color:#66ff66">Contraintes techniques :label: </span>
 .
 
-# <span style="color:green">3.Les Technologies utilisées</span>
- #### <span style="color:#0036ad"> 1.Java</span>
- * <strong style="color:dark">* <strong style="color:dark">Java est le langage de choix pour créer des applications à l'aide de code managé qui peut s'exécuter sur des appareils mobiles.
+# <span style="color:green">3.Les Design Pattern utilisées</span>
+ #### <span style="color:#0036ad"> 1.</span>
+ * <strong style="color:dark">* <strong style="color:dark">.
 
 *voir également à propos* [JAVA](https://www.java.com/fr/):link: 
 
 
- #### <span style="color:#0036ad"> 3.Spring Data JPA</span>
- * <strong style="color:dark">Spring Data JPA, qui fait partie de la grande famille Spring Data, facilite la mise en œuvre de référentiels basés sur JPA. Ce module traite de la prise en charge améliorée des couches d'accès aux données basées sur JPA. Il facilite la création d'applications alimentées par Spring qui utilisent des technologies d'accès aux données.
+ #### <span style="color:#0036ad"> 2.</span>
+ * <strong style="color:dark">.
     
 
 *voir également à propos de [Spring Data JPA](https://spring.io/projects/spring-data-jpa) :link: 
 
-#### <span style="color:#0036ad"> 4.MySQL</span>
- * <strong style="color:dark">est un système de gestion de base de données relationnelle (SGBDR) open source. Son nom est une combinaison de "My", le nom de la fille du co-fondateur Michael Widenius, et de "SQL", l'abréviation de Structured Query Language. Une base de données relationnelle organise les données en une ou plusieurs tables de données dans lesquelles les types de données peuvent être liés les uns aux autres ; ces relations aident à structurer les données. SQL est un langage utilisé par les programmeurs pour créer, modifier et extraire des données de la base de données relationnelle, ainsi que pour contrôler l'accès des utilisateurs à la base de données.
+#### <span style="color:#0036ad"> 4.</span>
+ * <strong style="color:dark">.
 *voir également à propos* [MySQL](https://devdocs.io/css/) :link: 
 
 
@@ -66,6 +66,7 @@ public inetrface
  ## <span style="color:green ">5.CONCEPTION & ANALYSES</span>
  * ###### <strong style="color:red; opacity: 0.80">Diagramme de classe </strong>
 > Diagramme de classe [color=#fd837b]
+![](https://i.imgur.com/QMMNcZN.png)
 
   ---
 
