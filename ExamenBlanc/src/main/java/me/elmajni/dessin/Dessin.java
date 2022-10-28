@@ -1,8 +1,8 @@
 package me.elmajni.dessin;
 
-import me.elmajni.patterns.composite.Figure;
-import me.elmajni.patterns.strategy.IStrategy;
-import me.elmajni.patterns.strategy.StrategyImpl1;
+import me.elmajni.designpatterns.composite.Figure;
+import me.elmajni.designpatterns.strategy.IStrategy;
+import me.elmajni.designpatterns.strategy.StrategyImpl1;
 
 
 import java.io.*;
