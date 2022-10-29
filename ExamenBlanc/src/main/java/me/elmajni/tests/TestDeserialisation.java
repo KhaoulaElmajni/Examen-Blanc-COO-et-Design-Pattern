@@ -5,7 +5,7 @@ import me.elmajni.dessin.Dessin;
 import me.elmajni.designpatterns.strategy.StrategyImpl1;
 import me.elmajni.designpatterns.strategy.StrategyImpl2;
 
-public class TestSerialisation {
+public class TestDeserialisation {
 
     public static void main(String[] args) throws Exception {
         Dessin dessin= Dessin.desserialiser("dessin.data");

@@ -20,7 +20,7 @@ public class TestDessin {
         groupeFigures.ajouterFigure(new Cercle(new Point(50,60),30));
 
         dessin1.afficher();
-        dessin1.serialiser("dessin1.data");
+        dessin1.serialiser("dessin.data");
 
 
         Dessin dessin2=new Dessin();
@@ -33,6 +33,6 @@ public class TestDessin {
         groupeFigures1.ajouterFigure(new Cercle(new Point(50,60),30));
 
         dessin2.afficher();
-        dessin2.serialiser("dessin1.data");
+        dessin2.serialiser("dessin.data");
     }
 }
